@@ -1,3 +1,3 @@
 # test2
- [Preview](https://your-name.github.io/your-repo/)
- [PullRequest](https://github.com/your-name/your-repo/pull/1/files)
+ [Preview](https://earthhuman41.github.io/test2/)
+ [PullRequest](https://github.com/earthhuman41/test2/pull/1/files)
